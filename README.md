@@ -1,4 +1,7 @@
 # Awesome IOWN tech.
+![image](https://user-images.githubusercontent.com/88763245/235299589-dbd9d0f9-d218-4365-a147-76c4477b5fb1.png)
+
+image credit by NTT inc.
 
 # About IOWN Specifications,
 IOWN is a hardware and communication-related technology being researched primarily by NTT, a Japanese telecommunications carrier.
